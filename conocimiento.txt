@@ -1,0 +1,51 @@
+GOPASS es un ecosistema de pago automático de bienes y servicios. Asocia tu tag a un vehículo y a un medio de pago desde la app y empieza a vivir la experiencia GOPASS a donde vayas. Recibirás una notificación en tu celular cada vez que utilizas el servicio, así como cuando realices una recarga. También podrás identificar y localizar los estacionamientos afiliados al sistema donde ya puedes utilizar tu Tag.
+
+GOPASS ofrece beneficios como el uso de su tecnología que permite un medio de pago electrónico eficiente y alternativo sin necesidad de efectivo, disminuye tiempos en el proceso de pago, aumenta la capacidad efectiva de atención en comercios o peajes, proporciona mayor control de gastos, ofrece información precisa y oportuna, reduce el fraude, y proporciona seguridad al eliminar el uso de dinero en efectivo. Además, promueve la agilidad en el tráfico y permite múltiples formas y lugares para hacer recargas.
+
+Fundada en 2019, GOPASS nació con el propósito de hacer más eficiente la movilidad en Colombia y ahorrar tiempo a los usuarios mediante su ecosistema de servicios.
+
+Misión: GOPASS busca ser la principal empresa en pagos electrónicos para movilidad en Colombia, mejorando la experiencia del usuario e impulsando la transformación digital. Ofrece servicios de pagos para parqueaderos, peajes, combustible, compras y otros servicios a través de un TAG y una Super App.
+
+Visión: Para el año 2026, GOPASS será un referente nacional en servicios de movilidad que permiten pagar parqueaderos, peajes, combustible y otros servicios desde una Super App y un TAG conectado.
+
+Estados de usuarios:
+
+• Activo: Usuario que puede ingresar con el servicio Gopass. Cuenta con un medio de pago o un saldo superior a $15.000. Puede usar todos los servicios del ecosistema.
+
+• Suspendido por falta de medio de pago: Usuario sin saldo suficiente (menor a $15.000) y sin medio de pago registrado. No puede usar los servicios.
+
+• Suspendido por administrador: Usuario con una novedad en el servicio, suspendido manualmente por GOPASS. Para reactivarse debe comunicarse con atención al cliente (SAC).
+
+• Suspendido por intento de fraude: Usuario involucrado en una novedad por posible fraude o mal uso del servicio. La suspensión puede ser preventiva o definitiva.
+
+• Cancelado: Usuario que decidió cancelar el servicio. Su historial de transacciones e información se conserva para efectos de validación o PQRS.
+
+Catálogo de servicios:
+
+Los usuarios pueden consultar los servicios disponibles en la página web www.gopass.com.co o en otros canales habilitados por la empresa.
+
+• Usuarios no GOPASS también pueden validar información de servicios ofrecidos a través de la web.
+
+• B2C (Business to Consumer): Modelo dirigido al consumidor final. Ofrece servicios individuales como el pago de peajes, parqueaderos, y compras mediante el TAG.
+
+• B2B (Business to Business): Modelo empresarial. Dirigido a empresas que deseen integrar el sistema GOPASS para su personal, flotas u operaciones logísticas. Permite control y administración de gastos, reportes, y gestión centralizada de usuarios.
+
+Membresías y servicios de asistencia:
+
+Para los usuarios GOPASS, existen servicios que pueden ser autogestionables mediante la Súper App, siguiendo pasos simples. GOPASS será responsable directo del servicio cuando lo presta, o el establecimiento afiliado será responsable de garantizar la información veraz y adecuada para su uso correcto.
+
+Super App:
+• Plataforma donde los usuarios pueden administrar su cuenta, consultar saldos, servicios y gestionar solicitudes de manera autónoma.
+
+Asistencias:
+
+Para acceder a los servicios de asistencia, el usuario debe comunicarse con la línea de atención al cliente (601) 7561395. Gopass coordina con un proveedor externo para prestar la asistencia correspondiente.
+
+• Servicio de Grúa:
+  - Definición: Servicio de asistencia vehicular en caso de fallas o incidentes en vía.
+  - Características: Solicitud vía SAC, atención rápida, coordinación con terceros.
+  - Términos y condiciones: Aplica para usuarios con membresía activa o en casos específicos bajo análisis.
+  - Beneficios: Reducción de tiempos de espera, asistencia segura, atención gestionada por Gopass.
+  - Estructura del servicio: Participan el Usuario, el Servicio de Atención al Cliente (SAC) y un Tercero proveedor.
+  - Novedades en el servicio: Las irregularidades, quejas o reportes se canalizan a través del SAC para seguimiento.
+  - Usabilidad: Se accede desde la Súper App o línea de atención. El sistema valida si el usuario cumple condiciones para recibir asistencia.
