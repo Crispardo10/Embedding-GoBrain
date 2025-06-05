@@ -1,0 +1,388 @@
+• Modulo 1
+
+1 ¿Qué es Gopass?
+
+GOPASS es un ecosistema de pago automático de bienes y servicios. Asocia tu tag a un vehículo y a un medio de pago desde tu APP y empieza a vivir la experiencia GOPASS a donde vayas. Recibe una notificación en tu celular, cada vez que utilizas el servicio, así como cuando realices una recarga. Adicional, podrás identificar y localizar los estacionamientos afiliados al sistema donde ya puedes utilizar Tu Tag.
+
+Gopass ofrece los siguientes beneficios: el uso su tecnología (software) la cual cuenta con un medio de pago alternativo, eficiente y electrónico sin la necesidad de realizar el proceso de pago en efectivo; la disminución de tiempos invertidos en el proceso de pago; aumentar la capacidad efectiva de atención en cada establecimiento de comercio o peaje; un mayor control de gastos; ofrecer información precisa y oportuna; ayudar a la reducción de fraude; otorgar seguridad por la realización de los pagos electrónicos suprimiendo el uso del dinero en efectivo; promover la agilidad en el tráfico; contar con múltiples sitios y formas para realizar recargas.
+
+Fundada en 2019, Gopass nació con el propósito de hacer más eficiente la movilidad en Colombia y ahorrar el tiempo de los usuarios con sus diferentes tipos de servicios que presta el ecosistema.
+
+➢ Misión:
+Gopass se enfoca en ser la principal empresa en pagos electrónicos para la movilidad en Colombia, ayudando a mejorar la experiencia de los usuarios y a impulsar la transformación digital en este sector, Provee servicios mediante un ecosistema de movilidad diseñado especialmente para clientes que pueden pagar los parqueaderos, los peajes, el combustible del vehículo, las compras en comercios y adquirir servicios todo ello a través de un TAG y una Super App.
+
+➢ Visión:
+Para el año 2026, Pagos automáticos de Colombia Gopass será un referente en servicios de movilidad para pagar parqueaderos, los peajes, el combustible del vehículo las compras en comercios y tener diversos tipos de servicios para los usuarios todo ello a través de un TAG y una Super App.
+
+2 Usuarios y Servicios.
+
+Se cuentan con diferentes estados de usuarios los cuales cuentan con ciertas características para que puedan usar o no el servicio, adicional de estados que no son poco comunes, pero aun así se usan;
+
+2.1 Estado de usuarios
+
+• Activo
+Usuario que puede ingresar con el servicio Gopass, cuenta con un medio de pago o un saldo superior a 15000. Puede usar todos los servicios del ecosistema.
+
+• Suspendido por falta de medio de pago
+Usuario que presenta novedad ya que no cuenta con un saldo superior a 15000 y adicional no cuenta con una tarjeta o medio de pago para el cual pueda hacer el débito por su uso.
+
+• Suspendido por administrador
+Usuario el cual presentan alguna novedad en el servicio, este estado le impide usar el servicio Gopass, para que el usuario pueda volver tendrá que comunicarse con atención al cliente SAC para que pueda volver a estar nuevamente activo.
+
+• Suspendido por intento de fraude
+Usuario el cual se presento una novedad al usar el servicio, pudo ser victima de fraude o en su efecto el usuario hizo mal uso del servicio y se le dejo este estado.
+
+• Cancelado
+Usuario que fue usuario Gopass, pero decidió cancelar el servicio se cuenta con el historial de sus transacciones e información en caso de validar casos antiguos, PQRS.
+
+2.2 Catálogo de Servicios
+
+USUARIOS NO GOPASS En la página web www.gopass.com.co o en otros medios habilitados para ello se indicarán los servicios de asistencia que se prestarán. B2c b2b
+
+Especificar que pueden validar los usuarios no Gopass en la pagina web
+
+Caracteristicas del B2c y b2b
+
+ACA MEMBRESIAS
+Para los usuarios Gopass
+
+Gopass cuenta con diferentes servicios los cuales pueden ser auto gestionables por el usuario, es decir lo pueden realizar mediante la Súper App siguiendo unos simples pasos, será responsable si lo presta directamente o serán responsable los establecimientos de contar con la información suficiente, y veraz para el correcto uso del sistema.
+
+Super APP
+
+Asistencias;
+
+Para hacer uso de estos servicios se tiene que comunicar con la línea de atención al cliente (601) 7561395 y por parte de Gopass se envía un proveedor externo para su respectiva asistencia.
+
+➢ Servicio de Grúa;
+Definición
+características
+términos y condiciones
+Beneficios
+Estructura del servicio Usuario SAC Tercero
+Novedades en el servicio
+Usabilidad
+
+RESPONSABILIDAD NOC
+La asistencia será máxima de $120.000. Solo podrán por este concepto ofrecerse dos (2) eventos por año calendario en caso de vehículos y tres (3) eventos para motocicletas. El máximo de tiempo de respuesta será de 2,5 Horas. No incluido en cobertura. Daño a terceros durante el trayecto siempre y cuando no haya responsabilidad del proveedor de la asistencia. Tampoco se incluye daños causados al vehículo o motocicleta. Este servicio opera en todo el territorio nacional, sin embargo, está sometido a disponibilidad de la zona, solo se hace un recorrido al taller o al municipio más cercano. En caso de no encontrarse talleres disponibles se cancela la solicitud de asistencia y se entrega al Cliente y/o Usuario el dinero arriba anunciado. El servicio se presta solo para automóviles, motocicletas, camperos y camionetas.
+
+➢ Asistencia por falta de Combustible;
+La asistencia será máxima de $200.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario en caso de vehículos y dos (2) eventos para motocicletas. El máximo de tiempo de respuesta será de dos horas. Esta asistencia incluye mano de obra y 1 galón de combustible corriente o Diesel según el tipo de vehículo. No incluido en cobertura. No se presta el servicio si el vehículo tiene fugas por combustible. No aplica para vehículo eléctricos o gas y no se responde por daños a terceros no causados por el Proveedor.
+
+➢ Asistencia Cables de batería;
+La asistencia será máxima de $100.000. Solo podrán por este concepto ofrecerse dos (2) eventos por año calendario. El máximo de tiempo de respuesta será de dos horas. No incluido en cobertura. Si el motor del vehículo está sellado no se presta el servicio y no se pagaría tampoco la asistencia. No se cubren daños a terceros durante la asistencia que no sea responsabilidad del proveedor. No aplica para servicios en carretera. El servicio se concreta en reinicio de la batería si es posible y no causa daños materiales adicionales al vehículo
+
+➢ Cambio de Llantas;
+La asistencia será máxima de $200.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario. El máximo de tiempo de respuesta será de dos horas. Este servicio opera en todo el territorio nacional, sin embargo, está sometido a disponibilidad de la zona. No incluido en cobertura. No incluye costos de materiales si el Cliente y/o Usuario no tiene llanta de repuesto. Si el cambo de llanta requiere transporte del vehículo no se presta el servicio. No aplica para motos y no cubre daños a terceros que no sean causados por el Proveedor.
+
+➢ Rayones;
+La asistencia será máxima de $500.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario. El máximo de tiempo de respuesta será el establecido según disponibilidad que será informada al Cliente y/o Usuario. La asistencia se prestará si por cualquier hecho imprevisto y súbito dentro de parqueaderos asociados a GOPASS se presenta un golpe leve en el vehículo. Este servicio deberá ser desarrollado en los talles y establecimiento aliados de GOPASS, no aplica para motocicletas.
+
+➢ Emblemas;
+La asistencia será máxima de $900.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario. El máximo de tiempo de respuesta será el establecido según disponibilidad que será informada al Cliente y/o Usuario. Esta asistencia será prestada única y exclusivamente si el hecho dañoso del emblema se presenta en parqueaderos asociados a GOPASS. Si costo del emblema es mayor al indicado anteriormente se pagará en dinero hasta ese valor, no aplica para motocicletas.
+
+➢ Vidrios;
+La asistencia será máxima de $450.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario. El máximo de tiempo de respuesta será el establecido según disponibilidad que será informada al Cliente y/o Usuario. Esta asistencia solo se realizará si el hecho dañoso del vidrio(s) se presenta en parqueaderos asociados a GOPASS. No incluye Pérdidas o daños diferentes al vidrio panorámico. No incluye pérdidas de beneficios, lucro cesante y otros perjuicios indirectos de cualquier tipo. No incluye daños o defectos estéticos. No incluye daños provocados a los bienes del cliente o al vehículo en su montaje o desmontaje. No incluye daños o pérdidas cubiertas por la garantía del fabricante. No incluye el desgaste de materiales o de cualquier parte o pieza del equipo que resulten del uso o del deterioro gradual, así como los daños originados por el óxido, la corrosión, el moho, la condensación y la humedad propia del ambiente. No incluye Hurto calificado. Desaparición inexplicable y misteriosa de los bienes asegurados o partes de ellos y los faltantes de inventario. Excluye Responsabilidad Civil y/o Daños Morales.
+
+➢ Cerrajería;
+La asistencia será máxima de $200.000. Solo podrán por este concepto ofrecerse un (1) evento por año calendario. El máximo de tiempo de respuesta será de dos horas . El servicio se presta en todo el territorio nacional según disponibilidad de cada zona. El servicio es solo para vehículos automóviles, camparos y camionetas, no sobre motos y ningún otro tipo de bien. La apertura del vehículo solo se realiza en presencia del propietario la cual deberá ser probada con la tarjeta de propiedad del vehículo y en el lugar de ocurrencia del evento. Si la seguridad del vehículo se encuentra comprometida el servicio no se prestará, no se asumirán daños que no sean causados por el proveedor y tampoco aplica para apertura de vehículo corporativos, no aplica para motocicletas.
+
+➢ Objetos personales;
+Asistencia con perdida dentro de los parqueaderos asociados a GOPASS, cuyo valor máximo sea de hasta $700,000. Solo cubre un (1) evento por año calendario. Si la perdida supone expedición de documentos queda sujeto a tiempos y entregas de autoridades que lo expidan. No obstante, la App Gopass podrá ofrecer más asistencias las cuales serán previamente informadas y se adherirán, en lo que correspondan, a estos Términos y Condiciones. *Los tiempos son estimados y pueden cambiar según; lugar, disponibilidad y cobertura. *En caso de no tener cobertura se entregará al Cliente y/o Usuario el equivalente en dinero. *Las asistencias solo podrán aplicarse y presentarse en los vehículos registrado en la App Gopass.
+
+Super App
+
+Servicios;
+
+• Soat
+El usuario realiza la cotización del Soat de su placa por la Super App Gopass, el cual valida las políticas internas de seguridad, se realiza una validación en el RUNT por parte de seguros mundial, devuelve la respuesta y se realiza una validación adicional si el vehículo no se encuentre chatarrizado, se procede con la validación y consumo de la póliza por parte de seguros mundial y envía la respuesta, luego llega la respuesta a Gopass y se la envía al usuario las cotizaciones y valores, quedamos a la espera la confirmación de la compra y selección del medio de pago, Gopass solicita a seguros mundial formularios disponibles y se envía la respuesta. Si el usuario no cuenta con el saldo no se puede expedir la Poliza, en caso tal la transacción queda exitosa Gopass, confirma y se consulta el formulario para seguros mundial, se envía de vuelta a Gopass, Ahora se solicita la póliza en un formato XML y la devuelve seguros mundial. Se verifica si se cuenta con error en el consumo de la información, si se cuenta con algún error Gopass tiene como tarea realizar la devolución al medio de pago e informar que no se va a realizar la expedición de la póliza, si no se cuenta con ningún error Gopass guarda la información y le confirma la transacción exitosa al usuario, luego se descarga la póliza Gopass solicita la póliza a Seguros Mundial, Seguros mundial la envía y se culmina el proceso con el usuario teniendo la póliza.
+
+• Impuestos
+Bogotá
+Cundinamarca
+
+• Auto Lavados
+AUTOMAS
+
+• Revisión Tecno mecánica
+
+• Seguros
+
+Super App
+
+Transacciones Directas;
+
+En este apartado vamos a ver los servicios que los usuarios pueden usar en los diferentes establecimientos para que funcione de manera correcta, deben contar con su tag instalado de manera correcta en la mitad del panorámico, además de que su placa sea correctamente visible.
+
+Con ello veremos los servicios sus diferentes variables y modos de operación para las Estaciones de Servicio, Parking, Tequendama, Centros comerciales y Peajes
+
+• Estaciones de Servicio (Terpel)
+Descripción Que significa Que se Valida Que se hace
+hipervínculo de los ejercicios
+Franquiciada y aliados
+
+• Parking
+Descripción Que significa Que se Valida Que se hace
+hipervínculo de los ejercicios
+RFID LPR
+
+• Tequendama
+RFID LPR
+
+• Centros comerciales
+SISTEMA AGNOSTICO Funciona independiente RFID LPR
+Integraciones
+
+• Peajes
+Tecnologia
+
+2.3 Membresías
+
+Los usuarios cuentan con diferentes tipos de membresías las cuales cuentan con diferentes tipos beneficios y accesibilidades para todas las necesidades de los usuarios;
+
+➢ Básica
+• Parqueaderos Públicos 2500
+• Parqueaderos Centros Comerciales 2500
+• Autolavados 2500
+• Combustible Terpel 2500
+• Pago con Voz 0
+• Peajes 0
+• Afiliación por vehículo 20000
+• Una transacción Terpel cada 48 Horas
+• No tiene costo
+
+➢ Estándar
+
+➢ Premium
+• 10% de descuento mensual en lavada de carro Bewash
+• 10% de descuento en la red de parking permanente
+• Descuento póliza todo riesgo 200.000
+• Cuenta con asistencia en ruta
+• Asistencia en parqueaderos
+• Afiliación por vehículo
+• Acumula Puntos Gopass
+• Vehículos incluidos 2 vehículos/ vehículo adicional 3000 / mes
+• Pospago
+• Costo 11900
+• Una transacción Terpel cada 48 Horas
+
+➢ Unisabana
+
+➢ Falabella
+
+➢ B2B
+Se cuentan con 3 tipos de variables en esta membresía, para estos usuarios no pueden usar el servicio de forma normal para el tema de la Super App, ellos solo pueden usar los servicios de Peajes, parqueaderos públicos, privados, Centros Comerciales y Estaciones de Servicio;
+
+• B2B Sin permanencia
+pueden usar sin límite de transacciones las EDS
+
+• B2B a 3 años
+Tienen una cláusula de uso de 3 años tienen un descuento por uso de peajes del 1,5 % por paso, pueden usar sin límite de transacciones las EDS
+
+• B2B a 5 Años
+Tienen una cláusula de uso de 5 años tienen un descuento por uso de peajes del 2 % por paso, pueden usar sin límite de transacciones las EDS.
+
+Se comparte un cuadro con el tipo de membresía B2B realizando un resumen del tipo de membresías con sus características.
+
+2.4 Comunicación de los usuarios
+
+Los usuarios pueden presentar novedades al momento de usar el servicio Gopass, como los son dobles cobros, cobros de pasos los cuales desconocen y errores en los cobros debido a novedades, por lo cual tienen diferentes métodos para comunicarse para que se puedan resolver esas novedades, o en su efecto confirmar el porqué de esos cobros.
+
+Mediante la APP los usuarios tienen diferentes modos los cuales son Vía correo electrónico (info@gopass.com.co), WhatsApp (+57 1 7702048) o teléfono (601 7561395), adicional se cuentan con diferentes ACT (asesores comerciales tecnológicos) los cuales se encuentran en diferentes puntos a nivel nacional y se encargan de brindar el servicio para nuevos usuarios o recibir diferentes tipos de novedades que cuentan con algún tipo de novedad, para ello cuentan con la comunicación directa con el NOC para verificar las posibles novedades que puedan presentar los usuarios, además de la línea con SAC los cuales envían casos para su solución referente a todas las novedades posibles.
+
+3 Servicios monitoreados por el NOC
+
+Los SLA que tiene el NOC y debe cumplir para que la operación siga de forma correcta tiene que cumplir con ciertos requisitos los cuales se dividen en diferentes servicios
+
+3.1 Parqueaderos;
+
+➢ Centros comerciales
+• Hardware
+Cámaras
+Para asegurar el correcto funcionamiento de las cámaras, se realizará un seguimiento cada 12 horas mediante un informe. En este informe, se verificará el posicionamiento de cada cámara, asegurando que no presenten movimientos que puedan afectar la captura de placas vehiculares y que cada cámara cuenta con sus respectivas grabaciones.
+
+En caso de pérdida de comunicación detectada por las alarmas de Zabbix, se realizará una validación inicial. Esta validación determinará si la pérdida de alcance es general a todos los equipos o específica de una cámara.
+
+Si la pérdida es general o solo a una cámara, se intentará hacer un ping a nivel WAN (si hay conexión). Si el problema está relacionado con la VPN, el equipo de redes intervendrá para su corrección. Si no hay alcance a nivel LAN, la afectación podría ser específica del comercio o general al equipo local.
+
+El equipo de redes será el encargado de restablecer el servicio, gestionando todo a través de un ticket en GLPI. Si el servicio no puede restablecerse de forma remota y la falla requiere revisión en sitio, en el mismo ticket se escalará el caso al área de Mantenimiento y Soporte para que se envíe un técnico al punto y se solucione la incidencia.
+
+• Reader Zebra
+Para el correcto el monitoreo de los equipos como la Reader se encuentre con su respectiva aplicación arriba para las Reader Zebra y no se encuentre bloqueada, en caso tal de una novedad por bloqueo, se valida con el área de Redes si se cuenta con un switch administrable para realizar un reinicio de manera remota mediante un ticket por GLPI, en caso que se cuente con un switch POE se tendrá que escalar en el mismo caso de GLPI pero para el área de mantenimiento y soporte para que se realice el apoyo de un técnico el reinicio de manera manual en sitio, para el caso de la Reader HURA realizar un cruce con todos los vehículos que se encuentren activos con Gopass y que tengan su tag instalado, al no ver ciclos es posible que se encuentre con una afectación la cual se tiene que escalar con el área de Arquitectura mediante un ticket para verificar lo sucedido generar un seguimiento y pronta solución a la novedad presentada, la Raspberry cuenta con ciclos en el comercio según la cantidad de vehículos que cuenten con su tag instalado de manera correcta y su estado activo, es decir toda su transaccionalidad
+
+• Parqueaderos Parking
+
+• Parqueaderos Tequendama
+
+• La Terminal
+
+3.2 Peajes
+
+3.3 Estaciones de Servicio
+
+3.4 GLPI
+
+3.5 Servicio al Partners
+
+4 Infraestructura Gopass
+
+Se presentarán la descripción técnica de los diferentes equipos con los cuales funcionan los diferentes comercios
+
+4.1 Raspberry
+
+Generalidades;
+Funciona como servidor local para los comercios
+Recibe y envía solicitudes desde los equipos instalados (Readers) a través del software de Gopass
+Tiene la función de almacenar las bases de datos en caso de que quede operando fuera de línea
+Sistema operativo Ubuntu 24.0.4 Its Server
+El procesador es un ARM CORTEX de 1.5 GHz
+Memoria RAM 4 Gb
+Disco duro 32 Gb (Según necesidad)
+Se conecta a fuente de poder propia 5 Voltios/ 9 Voltios a 3 Amp
+Se conecta a punto de red
+
+Configuraciones;
+Instalación del sistema operativo (Linux)
+Configurar IP en el segmento de red
+Instalación y creación de tablas de bases de datos
+Instalación de los paquetes del proyecto (Cerberus)
+Monitoreo de la RP por medio de un archivo server.CONF apuntando a un servidor Zabbix
+
+Puntos de Fallo
+Daño en la memoria SD
+Falla en la aplicación o aplicación Detenida
+Fallo en las Bases de Datos
+Fallo en la App Cerberus
+
+4.2 Reader ZEBRA
+
+Generalidades;
+Funciona en sistema Linux 4.9 para recibir las lecturas por medio de RFID, con este sistema se reciben diferentes tipos de datos para este caso es TID, Con esta Reader se pueden enviar pulsos por el sistema GPIO
+Procesador Texas AM 3505 (600 MHZ)
+Memoria RAM de 512 Mb
+Máxima sensibilidad en recepción 86 dBm
+Conexiones SSH
+Alimentación con adaptador de corriente o PoE Inyector
+Lo recomendado es usar solo 3 puertos receptores de las antenas, ya que puede generar sobresaturación en el equipo generando bloqueo del equipo.
+
+Configuraciones;
+Capacidad máxima de 4 a 6 mts Línea, esta calibración para las antenas se realiza en la interfaz gráfica de manera manual con técnico en sitio y un analista correspondiente
+Se configura todo mediante la interfaz grafica referente a la segmentación de red
+Instalación de la APK en la interfaz gráfica, para la configuración se debe hacer en SSH para apuntar a la Raspberry y los servicios a utilizar.
+Para detener y reiniciar la aplicación se realiza el código sh stop_GOPASS-ZEAPP.sh para apagarla y para encenderla sh start_GOPASS-ZEAPP.sh lo que genera que se verifique que la aplicación suba de manera correcta y ver lecturas a tiempo real.
+Va alimentado vía Poe, tanto administrable como No administrable
+
+Puntos de Fallo
+Bloqueo de la Reader
+Fallo en la aplicación
+Sobre saturación
+Fallos en el pulso
+Perdida de alcance
+
+4.3 Reader Hura
+
+Generalidades;
+Funciona con sistema Android 9.0 para recibir las lecturas por medio de RFID, con este sistema se reciben diferentes tipos de datos para este caso es TID, Con esta Reader se pueden enviar pulsos por el sistema GPIO
+Memoria RAM de 4 Gb
+Conexión HDMI
+Conexión USB
+Alimentación con adaptador de corriente o PoE Inyector
+
+Configuraciones;
+Se genera la configuración de red mediante su interfaz grafica y adicional se instala la aplicación desde la misma, en la pestaña de configuraciones se puede poner la IP de la Minicpu y los servicios a utilizar, adicional se puede configurar la calibración en el mismo apartado
+Se gestiona mediante la plataforma Anydesk o teamviewer de forma remota y para validarlo de manera local con monitor HDMI y teclado.
+Va alimentado vía Poe, tanto administrable como No administrable
+
+Puntos de Fallo;
+Fallo de alimentación por Poe
+Cierre de la aplicación
+Perdida de Segmentación
+Fallos en los pulsos
+
+4.4 Antenas
+
+Generalidades;
+Cuenta con Dos polaridades, una excita y la otra lee
+Tiene la labor de emitir la potencia y recibir las lecturas de los datos RFID
+Genera lecturas de manera cónica
+
+Configuraciones;
+Se realiza la configuración de la potencia mediante la Reader, que va conectado mediante un cable coaxial ya sea LMR200- LMR400 Y el cable Amphenol y se realiza la respectiva inclinación para que su correcta lectura.
+
+Puntos de Fallo;
+No da Lectura
+Perdidas de Potencia
+Falla en la inclinación
+
+4.5 Cámaras LPR (IDS TCG)
+
+Generalidades;
+Captura precisa de la placa de los vehículos
+Cuenta con memoria interna para guardar tanto capturas como video
+Se puede dar pulso de apertura de talanquera
+
+Configuraciones;
+Se realiza asignación de red mediante la interfaz grafica de la cámara, se debe instalar la memoria Micro SD para guardar grabaciones y capturas de placas.
+Si es solo funcionamiento LPR se debe tener configuración de GPIO (entrada y salida), para que se envié el pulso, en la pestaña de configuraciones se puede poner la IP de la Minicpu y la calibración para la correcta captura de las placas
+Si el funcionamiento es LPR+RFID, la cámara solo funciona de apoyo, verificación de placas, creación y cierres de ciclos además de corroborar esa información
+
+Puntos de Fallo;
+Movimiento de cámara
+Fallo en la microSD
+Fallos en el pulso
+Perdida de alcance
+
+4.6 Switch POE
+
+Generalidades;
+Es un conmutador capa 2 que permite interconectar dispositivos a través de una red LAN.
+Cuando son Poe, alimenta la corriente a otros equipos.
+Se utiliza para alimentación de cámaras y alimentación de readers
+
+Configuraciones;
+Se realiza asignación de IP
+Se asigna un nombre de identificación
+Cuando es Poe, se hace la habilitación de puertos
+Se alimenta a la toma de corriente eléctrica a 110 V y tiene una entrega de 54 Wats
+Se conecta dispositivos mediante Poe y Datos
+
+Puntos de Fallo;
+No encendido del equipo
+Desconfiguración de equipo
+Bloqueo de puertos de red o Poe
+
+4.8 Ruijie switch administrable
+
+Generalidades;
+Es un enrutador que permite interconectar redes LAN y WAN, su principal función es establecer la mejor ruta de comunicación
+Se utiliza para conectarse a internet
+Se alimenta de una corriente eléctrica con el cargador
+
+Configuraciones;
+La configuración del internet
+Configuración de IP
+Se configuran Protocolos de enrutamiento dependiendo del comercio
+VPN Site to Site
+Red LAN
+
+Puntos de Fallo;
+No encendido del dispositivo
+Desconfiguración del equipo
+Daño de algún puerto físico
+
+5 Tecnología Gopass y Correlación de los equipos
+
+Gopass cuenta con diferentes métodos para prestar los diferentes servicios a los usuarios según se requiera por su necesidad;
+
+6 Equipo de Trabajo
+
+Aseguramiento (Novedades en consola, tarifas, Facturación electrónica)
+Arquitectura y automatización (Zabbix, calibraciones, Alcance a equipos Hura y Raspberry apoyo en integraciones)
+Mantenimiento (apoyo personal técnico en sitio, correcciones de movimiento de equipos)
+Redes (Recuperación de todos los equipos que sean administrables)
+Instalaciones (instalación de comercios nuevos con Gopass)
+Riesgos y fraude (verificación de solicitudes por fraudes)
+SAC (comunicación con cliente, instalación de tags)
+ACT (asesores comerciales tecnológicos)(Comunicación al cliente en terreno, instalación de tag)
+Producto; Se encarga Idear y desarrollar nuevas funcionalidades y servicios dentro de su ecosistema de movilidad, mejorar los productos existentes, como la app, la tarjeta, el sistema de pagos, Establecer la estrategia de producto para el crecimiento y la expansión de Gopass en el mercado colombiano y potencialmente a nivel internacional.
+Desarrollo; Construir y mantener la infraestructura tecnológica que soporta todos los productos y servicios de Gopass, además de implementar las nuevas funcionalidades definidas por el área de producto, ya que tienen que trabajar de la mano. Garantizar la calidad, seguridad y rendimiento de la plataforma. Integrar Gopass con otros sistemas y servicios. Innovar y adoptar nuevas tecnologías para mejorar la plataforma y ofrecer nuevas soluciones.
